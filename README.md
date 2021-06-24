@@ -3,7 +3,12 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning mobile application development
 - 💬 Ask me about Flutter
- 
+
+
+
+
+
+<br />
 <!--x
 **nuriulgen/nuriulgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
