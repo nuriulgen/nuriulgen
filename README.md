@@ -21,22 +21,32 @@
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=61DAFB&style=plastic" />
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=61DAFB&style=plastic" />
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQlite&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=Hive&logoColor=white&style=plastic" />
  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=for-the-badge&logo=Adobe+Xd&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&style=plastic" />
+ <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=for-the-badge&logo=AdobeXd&logoColor=white&style=plastic" />
+
 </p>
 
----
+
+<h3 align="center">Version Control and Development tools used:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/Git-Hub-0175C2?style=for-the-badge&logo=Github&logoColor=61DAFB&style=plastic" />
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android+studio&logoColor=white&style=plastic" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
+
+
 ## &#x1f4c8; My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" /></p>
@@ -44,4 +54,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars) 
 
 <br />
-
