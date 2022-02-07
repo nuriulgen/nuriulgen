@@ -13,7 +13,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a108fa14f425c183fdb1a4a2ca347e3e1db31ae4d58c0dae52213494737abddf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61746963696164656d26636f6c6f723d677265656e"><img src="https://komarev.com/ghpvc/?username=nuriulgen&label=Profile%20views&color=0e75b6&style=flat" alt="nuriulgen :: Profile Stats" data-canonical-src="https://komarev.com/ghpvc/?username=aticiadem&amp;color=green" style="max-width: 100%;"></a>
 
 
-<a href="https://www.linkedin.com/in/nuri-%C3%BClgen-5063a319a" rel="nofollow">
+<a href="https://www.linkedin.com/in/nuri-ülgen" rel="nofollow">
     <img src="https://camo.githubusercontent.com/a21dd661508f600d545c254d21aa4e2a6f003362edeee147dd8ac14d76ade072/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
