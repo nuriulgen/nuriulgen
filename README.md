@@ -51,9 +51,8 @@
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" />
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars) 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars" alt="nuriulgen" />
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuriulgen&theme=react-dark)](https://github.com/nuriulgen/github-readme-activity-graph)
 
