@@ -53,4 +53,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars) 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuriulgen&theme=react-dark)](https://github.com/nuriulgen/github-readme-activity-graph)
+
 <br />
