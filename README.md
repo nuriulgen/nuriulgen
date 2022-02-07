@@ -18,7 +18,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriulgen&layout=compact)](https://github.com/nuriulgen&/github-readme-stats)
+
+
 
 
 
