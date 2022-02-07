@@ -1,10 +1,24 @@
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3>Glad to see you here!</h3>  
+<h3>I am Nuri Ülgen </h3>  
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning mobile application development
 - 💬 Ask me about Flutter
+
+
+---
+
+🧰 Toolbox
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/nuriulgen/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=radical)](https://github.com/nuriulgen/github-readme-stats)
 
 
 
