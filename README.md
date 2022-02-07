@@ -46,11 +46,13 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 
+</p>
 
 ## &#x1f4c8; My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" /></p>
-
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" />
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars) 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuriulgen&theme=react-dark)](https://github.com/nuriulgen/github-readme-activity-graph)
