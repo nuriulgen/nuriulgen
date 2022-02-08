@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/Git-Hub-0175C2?style=for-the-badge&logo=Github&logoColor=61DAFB&style=plastic" />
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android+studio&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android+studio&logoColor=white&style=plastic" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 
