@@ -1,5 +1,7 @@
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<img width="720px" src="https://camo.githubusercontent.com/ac28de14aec28050cabe4b2e48aedee2cb479806f6af0c17ed13cec555b1aa26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236784245616d5877614d5355625637322f67697068792e676966" data-canonical-src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <h3>I am Nuri Ülgen </h3>  
 - 🔭 I’m currently working on Flutter
