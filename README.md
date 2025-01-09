@@ -1,62 +1,72 @@
-<!-- welcome message -->  
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img width="720px" src="https://camo.githubusercontent.com/ac28de14aec28050cabe4b2e48aedee2cb479806f6af0c17ed13cec555b1aa26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236784245616d5877614d5355625637322f67697068792e676966" data-canonical-src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nuri%20Ülgen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Mobile%20Development%20Architect%20|%20Flutter%20Expert&descAlignY=58&descAlign=50" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7235D1&center=true&vCenter=true&random=false&width=500&lines=Building+exceptional+mobile+experiences;Flutter+Development+Specialist;Clean+Architecture+Enthusiast;UI%2FUX+Design+Passionate" alt="Typing SVG" />
+</div>
 
-<h3>I am Nuri Ülgen </h3>  
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning mobile application development
-- 💬 Ask me about Flutter
----
+### 🎯 Current Focus
+
+```typescript
+const nuri = {
+    currentlyWorking: "Building innovative Flutter applications",
+    learning: "Advanced mobile architecture patterns",
+    lookingToCollaborate: "On groundbreaking mobile projects",
+    askMeAbout: ["Flutter", "Mobile Dev", "UI/UX", "Clean Architecture"],
+    dailyDrivers: ["Dart", "Flutter", "Firebase", "REST APIs"]
+};
+```
+
+<div align="center">
+  <h2>🛠️ Technology Arsenal</h2>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,kotlin,figma,git" />
   
-<h3 align=center>Connect with me:</h3>
-<p align="center">
- <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a108fa14f425c183fdb1a4a2ca347e3e1db31ae4d58c0dae52213494737abddf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61746963696164656d26636f6c6f723d677265656e"><img src="https://komarev.com/ghpvc/?username=nuriulgen&label=Profile%20views&color=0e75b6&style=flat" alt="nuriulgen :: Profile Stats" data-canonical-src="https://komarev.com/ghpvc/?username=aticiadem&amp;color=green" style="max-width: 100%;"></a>
+  <h3>💾 Database Expertise</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</div>
 
+### 📊 Development Metrics
 
-<a href="https://www.linkedin.com/in/nuriulgen" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a21dd661508f600d545c254d21aa4e2a6f003362edeee147dd8ac14d76ade072/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuriulgen&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriulgen&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nuriulgen/your-project-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuriulgen&repo=your-project-1&theme=radical&hide_border=true" />
   </a>
-
-<a href="mailto:nuriulgen04400@gmail.com">
-    <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  <a href="https://github.com/nuriulgen/your-project-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuriulgen&repo=your-project-2&theme=radical&hide_border=true" />
   </a>
+</div>
 
+### 🤝 Let's Connect
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=61DAFB&style=plastic" />
- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=61DAFB&style=plastic" />
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQlite&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=Hive&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&style=plastic" />
- <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=for-the-badge&logo=AdobeXd&logoColor=white&style=plastic" />
+<div align="center">
+  <a href="https://linkedin.com/in/nuriulgen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nuriulgen04400@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
-</p>
+<div align="center">
+  <h3>✨ Visitor Count ✨</h3>
+  <img src="https://profile-counter.glitch.me/nuriulgen/count.svg" />
+</div>
 
-
-<h3 align="center">Version Control and Development tools used:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&style=plastic" />
-  <img src="https://img.shields.io/badge/Git-Hub-0175C2?style=for-the-badge&logo=Github&logoColor=61DAFB&style=plastic" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android+studio&logoColor=white&style=plastic" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
-
-</p>
-
-## &#x1f4c8; My GitHub Stats
-
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriulgen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nuriulgen" /><img src="https://github-readme-stats.vercel.app/api?username=nuriulgen&show_icons=true&theme=tokyonight&hide=prs,stars" alt="nuriulgen" />
-
-
-
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nuriulgen&theme=react-dark)](https://github.com/nuriulgen/github-readme-activity-graph) -->
-
-<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
